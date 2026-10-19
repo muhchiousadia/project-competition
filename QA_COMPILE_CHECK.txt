@@ -1,0 +1,2 @@
+Command: python -m compileall -q app.py src scripts
+Exit code: 0
